@@ -4,6 +4,8 @@ Custom configuration for a Vampiric LG / Shaft duel practice server for Quake Li
 
 Designed for LG / Shaft practice with fast rotations and minimal interruptions.
 
+
+
 ## Features
 
 - Lightning Gun / Shaft only
