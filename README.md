@@ -23,6 +23,7 @@ This project documents a working Quake Live LG duel server configuration origina
 - Linux VPS
 - SteamCMD
 - Quake Live Dedicated Server
+- GNU Screen
 - Open UDP port: **27960**
 
 Install the server using SteamCMD (standard process):
