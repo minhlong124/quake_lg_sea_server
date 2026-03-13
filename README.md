@@ -25,10 +25,11 @@ Designed for Thunderstruck LG practice with fast rotations and minimal interrupt
 ```
 qlserver/
 └─ baseq3/
+   ├─ server.cfg
    └─ scripts/
+      ├─ factories.txt
+      └─ lgvamp.factories
 ```
-
-Place the configuration files in the appropriate directories.
 
 ## Starting the Server
 
