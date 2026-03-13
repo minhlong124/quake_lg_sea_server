@@ -1,0 +1,45 @@
+{
+"id": "lgvamp",
+"title": "LG Vamp Duels",
+"author": "server",
+"basegt": "ffa",
+
+"cvars": {
+"g_startingWeapons": "33",
+"g_startingHealth": "100",
+"g_startingHealthBonus": "100",
+"g_startingArmor": "0",
+
+"g_infiniteAmmo": "1",
+"g_vampiricDamage": "0.75",
+  
+"g_knockback": "0",
+"pmove_DoubleJump":"1",
+"pmove_CrouchStepJump": "0",
+"pmove_CrouchSlide": "1",
+"pmove_CrouchSlideJump": "1",
+"pmove_CrouchSlideFriction": "0",
+"pmove_CrouchSlideDirection": "0.0f",
+  
+"g_weaponrespawn": "0",
+"g_spawnItemAmmo": "0",
+"g_spawnItemArmor": "0",
+"g_spawnItemHealth": "0",
+"g_spawnItemHoldable": "0",
+"g_spawnItemPowerup": "0",
+"g_spawnItemRune": "0",
+"g_spawnItemWeapons": "0",
+	
+"g_allowKill": "0",
+"g_voteFlags": "4095",
+"g_allowVote": "0",
+"g_allowVoteMidGame": "0",
+"g_allowVoteMidGame": "0",
+"g_allowVoteMidGame": "0",
+"g_allowSpecVote": "0",
+"g_allowStandardVote": "0",
+
+"pmove_WeaponRaiseTime": "0",
+"pmove_WeaponDropTime": "0"
+}
+}
