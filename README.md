@@ -4,7 +4,9 @@ Custom configuration for a Vampiric LG / Shaft duel practice server for Quake Li
 
 Designed for LG / Shaft practice with fast rotations and minimal interruptions.
 
+## Purpose
 
+This project documents a working Quake Live LG duel server configuration originally designed for SEA players, but usable in any region.
 
 ## Features
 
@@ -21,6 +23,13 @@ Designed for LG / Shaft practice with fast rotations and minimal interruptions.
 - Linux VPS
 - SteamCMD
 - Quake Live Dedicated Server
+- Open UDP port: **27960**
+
+Install the server using SteamCMD (standard process):
+
+```
+app_update 349090 validate
+```
 
 ## Directory Structure
 
@@ -37,22 +46,23 @@ qlserver/
 
 Run the server inside a screen session:
 
+```
 screen -S qlserver
 ./run_server_x64.sh +exec server.cfg
-
+```
 Detach with:
-
+```
 CTRL+A → D
-
+```
 ## Reconnect to Server Console
-
+```
 screen -ls
 screen -r <session>
-
+```
 ## Example Connect Command
-
+```
 /connect (server-ip):27960
-
+```
 ## Notes
 
 This configuration is intended for Thunderstruck duel rotations where players queue and rotate after each fight.
