@@ -44,6 +44,7 @@
 
 "g_lagHax": "1",
 "g_lagHaxMs": "240",
-"g_lagHaxMsec": "12"
+"g_lagHaxMsec": "10",
+"g_lagHaxHistory": "12"
 }
 }
