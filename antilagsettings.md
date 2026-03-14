@@ -4,11 +4,11 @@ Antilag configuration presets for Quake Live servers.
 
 These examples are provided in two formats:
 
-"server.cfg" → for .cfg server configs
+`server.cfg` → for .cfg server configs
 
-"XXXX.factories" → for factories / custom gamemode files
+`XXXX.factories` → for factories / custom gamemode files
 
-## The actual presets:
+## Presets
 - [Default / Conservative](#default--conservative)
 - ["Best" #1](#best-1)
 - ["Best" #2](#best-2)
