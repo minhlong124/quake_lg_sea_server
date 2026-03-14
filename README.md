@@ -10,7 +10,7 @@ This project documents a working Quake Live LG duel server configuration origina
 
 ## Features
 - Designed for SEA duel practice
-- Lightning Gun / Shaft only
+- Lightning Gun (Shaft) only
 - Vampiric healing (100%)
 - No knockback
 - Thunderstruck map
