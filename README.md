@@ -1,8 +1,8 @@
 # SEA LG Duels Server
 
-Custom configuration for a Vampiric LG / Shaft duel practice server for Quake Live.
+Custom configuration for a Vampiric LG (Shaft) duel practice server for Quake Live.
 
-Designed for LG / Shaft practice with fast rotations and minimal interruptions.
+Designed for LG (Shaft) practice with fast rotations and minimal interruptions.
 
 ## Purpose
 
