@@ -8,6 +8,11 @@ These examples are provided in two formats:
 
 "XXXX.factories" → for factories / custom gamemode files
 
+## Table of Contents
+- [Default / Conservative](#default--conservative)
+- ["Best" #1](#best-1)
+- ["Best" #2](#best-2)
+
 ## Default / Conservative
 
 Lower rewind values. Favors low-ping players.
