@@ -69,4 +69,4 @@ screen -r <session>
 ## Notes
 
 - This configuration is intended for Thunderstruck duel rotations where players queue and rotate after each fight.
-- For Windows Servers, I highly recommend you to see [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1410490276)
+- For Windows-based servers, see [this setup guide.](https://steamcommunity.com/sharedfiles/filedetails/?id=1410490276)
