@@ -16,7 +16,6 @@ This project documents a working Quake Live LG duel server configuration origina
 - Thunderstruck map
 - Voting disabled
 - [Antilag tuned for ~40–200ms players](antilagsettings.md)
-- [Automatic Daily Restarts](dailyrestart.md)
 
 ## Requirements
 
